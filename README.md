@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Le Hoang Sao Mai</h1>
-<h3 align="center">🎓 I’m currently transitioning into software engineering with a strong background in economics and finance. I recently discovered how much I love solving problems with code — and now I’m passionate about building things that are useful, clean, and impactful.</h3>
+<h3 align="center">🎓 Master student in Software engineering, I’m currently transitioning into software engineering with a strong background in economics and finance. I recently discovered how much I love solving problems with code — and now I’m passionate about building things that are useful, clean, and impactful.</h3>
 
 - 🔭 I’m currently working on [Automatic-Speech-Recognition](https://github.com/LHSaoMai/Automatic-Speech-Recognition-ASR-with-PyTorch)
 
